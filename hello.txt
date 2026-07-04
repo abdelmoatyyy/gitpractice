@@ -1,1 +1,19 @@
-dasdasdasdas
+clone mn github : 
+git clone (repo link)
+
+pull :
+git pull 
+( OR MN EL GUI )
+
+PUSH : 
+git add * 
+git commit -m "Message"
+git PUSH
+
+create branch : 
+git checkout -b (branchname)
+OR MN EL GUI 
+
+pull from diffrent branch : 
+git pull origin (branchname)
+
